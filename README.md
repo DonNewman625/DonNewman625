@@ -1,16 +1,30 @@
-## Hi there 👋
+# Don Newman
 
-<!--
-**DonNewman625/DonNewman625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with experience building and maintaining production healthcare systems.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Backend development (C#, ASP.NET, Node.js)
+- Healthcare data & interoperability (FHIR, bulk data, claims)
+- Legacy system modernization
+- SQL Server–heavy, real-world systems
+- Authentication, security, and reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What this GitHub shows
+- Realistic backend projects (sanitized, non-proprietary)
+- Architecture and design decisions
+- Modernization approaches for legacy platforms
+- Clean, documented code — not toy demos
+
+## Tech Stack
+C#, ASP.NET / ASP.NET Core  
+Node.js  
+SQL Server  
+REST APIs  
+FHIR (R4, Bulk Data)  
+OAuth2 / JWT  
+PowerShell  
+
+## Selected Projects
+
+
+📫 LinkedIn: https://www.linkedin.com/in/donald-newman-9a171565/
